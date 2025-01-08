@@ -159,7 +159,7 @@ The pipeline consists of:
 ---
 
 ## **Contributors**
-- [Your Name](https://github.com/your-profile)
+- Pragadeeswaran J
 
 ---
 
